@@ -7,3 +7,6 @@ Hey assholes welcome to my readme
 ## Purpose
 
 Sample website with plenty of files for demos. new stuff
+
+##Copyright
+This is my copyright notice
