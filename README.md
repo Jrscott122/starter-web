@@ -12,4 +12,4 @@ Sample website with plenty of files for demos. new stuff
 Please fork this repository and issue pull requests for review
 
 ##Copyright
-This is my copyright notice
+This is my copyright notice, circa 2022 for stashing
