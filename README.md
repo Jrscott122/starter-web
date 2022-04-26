@@ -1,6 +1,8 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.  But nah showing other stuff too~ like adding more for a rebasing
+This repository is for showing how Git and GitHub work. 
+But nah showing other stuff too~ like adding more for a rebasing
+emergency fix
 ##Introductoin
 
 Hey assholes welcome to my readme
